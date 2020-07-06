@@ -1,5 +1,8 @@
 _repo: Ehegluck-Roman_62491
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62491-h/images/cover.jpg
 creator:
   author:
     agent_name: Bobertag, Bianca
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51984
     wikipedia: https://de.wikipedia.org/wiki/Bianca_Bobertag
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62491#Ehegluck-Roman
 gutenberg_issued: '2020-06-29'
 gutenberg_type: Text
 identifiers:
